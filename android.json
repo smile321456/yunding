@@ -3,8 +3,8 @@
   "updateUrl":"http://appdown.1066wan.com/yunding_download/",
   "branches":[
     {
-      "code":"1004",
-      "version":"1.0.4",
+      "code":"1005",
+      "version":"1.0.5",
       "status":"release"
     }
   ]
